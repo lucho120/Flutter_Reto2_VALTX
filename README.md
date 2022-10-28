@@ -4,10 +4,10 @@ A new Flutter project.
 ## About me
 Hello my name is Luis Angel Cortez Palacios, lover of mobile programming and starting in Flutter.
 
-#UI SCREENS FINANCE
+# UI SCREENS FINANCE
 
-![Image text]('https://github.com/lucho120/Flutter_Reto2_VALTX/aseets/ui_screens/ui_home.png')
-![Image text]('https://github.com/lucho120/Flutter_Reto2_VALTX/aseets/ui_screens/ui_cards.png')
+![Image text](https://github.com/lucho120/Flutter_Reto2_VALTX/aseets/ui_screens/ui_cards.png)
+![Image text](https://github.com/lucho120/Flutter_Reto2_VALTX/aseets/ui_screens/ui_home.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
