@@ -4,9 +4,10 @@ A new Flutter project.
 ## About me
 Hello my name is Luis Angel Cortez Palacios, lover of mobile programming and starting in Flutter.
 
-# UI SCREENS FINANCE
+# UI SCREENS FINANCE HOME
 
 ![Image text](https://github.com/lucho120/Flutter_Reto2_VALTX/blob/main/aseets/ui_screens/ui_cards.png)
+# UI SCREENS FINANCE CARDS
 ![Image text](https://github.com/lucho120/Flutter_Reto2_VALTX/blob/main/aseets/ui_screens/ui_home.png)
 ## Getting Started
 
