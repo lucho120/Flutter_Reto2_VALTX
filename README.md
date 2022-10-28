@@ -6,10 +6,10 @@ Hello my name is Luis Angel Cortez Palacios, lover of mobile programming and sta
 
 # UI SCREENS FINANCE HOME
 
-![Image text](https://github.com/lucho120/Flutter_Reto2_VALTX/blob/main/assets/ui_screens/ui_cards.png)
+![Image text](https://github.com/lucho120/Flutter_Reto2_VALTX/blob/main/assets/ui_screens/ui_home.png)
             
 # UI SCREENS FINANCE CARDS
-![Image text](https://github.com/lucho120/Flutter_Reto2_VALTX/blob/main/assets/ui_screens/ui_home.png)
+![Image text](https://github.com/lucho120/Flutter_Reto2_VALTX/blob/main/assets/ui_screens/ui_cards.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
