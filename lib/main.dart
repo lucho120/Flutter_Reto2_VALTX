@@ -1,5 +1,5 @@
-import 'package:app_reto2_valtx/views/app_navigation_bar.dart';
 import 'package:flutter/material.dart';
+import 'package:app_reto2_valtx/views/app_navigation_bar.dart';
 
 void main() {
   runApp(const MyApp());

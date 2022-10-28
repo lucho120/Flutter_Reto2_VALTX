@@ -6,7 +6,7 @@ class Header extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: EdgeInsets.only(top: 55.0, left: 5.0, right: 5.0),
+      margin: const EdgeInsets.only(top: 55.0, left: 5.0, right: 5.0),
       height: 310.0,
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(30.0),

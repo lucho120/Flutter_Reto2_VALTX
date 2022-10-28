@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:app_reto2_valtx/utils/transactions/widgets/transactions.dart';
 import 'package:app_reto2_valtx/views/home/widgets/send_again.dart';
-
-import '../../../utils/transactions/widgets/transactions.dart';
 
 class Content extends StatelessWidget {
   const Content({Key? key}) : super(key: key);

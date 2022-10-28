@@ -1,6 +1,6 @@
+import 'package:flutter/material.dart';
 import 'package:app_reto2_valtx/views/card/card_view.dart';
 import 'package:app_reto2_valtx/views/home/home_view.dart';
-import 'package:flutter/material.dart';
 
 class AppNavigationBar extends StatefulWidget {
   const AppNavigationBar({super.key});
@@ -13,13 +13,19 @@ class _AppNavigationBarState extends State<AppNavigationBar> {
   int _selectedIndex = 0;
   static const List<Widget> _widgetOptions = <Widget>[
     HomeView(),
-    Text('Search Page',
-        style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold)),
-    Text('Create Page',
-        style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold)),
+    Center(
+      child: Text('Search Page',
+          style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold)),
+    ),
+    Center(
+      child: Text('Create Page',
+          style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold)),
+    ),
     CardView(),
-    Text('Profile Page',
-        style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold)),
+    Center(
+      child: Text('Profile Page',
+          style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold)),
+    ),
   ];
 
   void _onItemTapped(int index) {

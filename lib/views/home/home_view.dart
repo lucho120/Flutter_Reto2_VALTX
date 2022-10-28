@@ -1,6 +1,6 @@
+import 'package:flutter/material.dart';
 import 'package:app_reto2_valtx/views/home/widgets/content.dart';
 import 'package:app_reto2_valtx/views/home/widgets/header.dart';
-import 'package:flutter/material.dart';
 
 class HomeView extends StatelessWidget {
   const HomeView({Key? key}) : super(key: key);

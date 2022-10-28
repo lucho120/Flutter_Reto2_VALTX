@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
+
+import 'package:app_reto2_valtx/utils/transactions/widgets/transactions.dart';
 import 'package:app_reto2_valtx/views/card/widget/wallet_monthly.dart';
 import 'package:app_reto2_valtx/views/card/widget/wallet_cards.dart';
-
-import '../../../utils/transactions/widgets/transactions.dart';
 
 class Content extends StatelessWidget {
   const Content({Key? key}) : super(key: key);
